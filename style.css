@@ -1,0 +1,78 @@
+.fejlecBotu {
+  font-family: "Abril Fatface", cursive;
+  color: #222;
+  font-size: 20px;
+}
+
+.bekezdesBotu {
+  font-family: "Josefin Sans", cursive;
+  color: #222;
+  font-size: 20px;
+}
+
+.main {
+  width: 1500px;
+  height: 50px;
+  margin: 0 auto 0 auto; /*Középre igazítás*/
+}
+.udv1 {
+  position: absolute;
+  bottom: 100px;
+  left: 200px;
+  font-size: 40px;
+}
+.udv2 {
+  position: absolute;
+  bottom: 50px;
+  left: 200px;
+}
+.head {
+  position: relative;
+  text-align: center;
+  width: 1200px;
+  height: 400px;
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-size: 100% 100%;
+}
+.dumaBekezdes {
+  text-align: left;
+}
+.kockas {
+  list-style-type: square;
+}
+
+.dumaTorzs {
+  margin: 10px 10px 10px 200px;
+}
+
+.szurkeKiemel {
+  font-family: "Merriweathers", cursive;
+  color: white;
+  font-size: 30px;
+  background-color: #222;
+  text-align: center;
+  height: 150px;
+  width: 1000px;
+  position: relative;
+}
+
+.feliratBotu {
+  font-family: "Merriweathers", cursive;
+  color: white;
+  font-size: 30px;
+}
+
+.aposztrof {
+  position: relative;
+  text-align: left;
+  font-size: 80px;
+}
+
+.kozepre {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
